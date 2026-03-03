@@ -60,24 +60,18 @@ I'm the founder of **[Due Gooder](https://duegooder.com)** — a student product
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nateboy318&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&cache_seconds=86400" />
+  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/0-profile-details.svg" />
   <img width="49%" src="https://streak-stats.demolab.com?user=nateboy318&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateboy318&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" />
+  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </div>
 
----
-
-### 📈 Contribution Graph
-
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nateboy318&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true)](https://github.com/nateboy318)
-
+  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </div>
 
 ---
