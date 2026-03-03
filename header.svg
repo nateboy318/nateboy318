@@ -128,20 +128,19 @@
           font-size: 7.5px;
           line-height: 1.1;
           letter-spacing: 0.5px;
-          background: linear-gradient(135deg, #6C63FF, #00D4FF, #FF6B6B, #6C63FF);
-          background-size: 300% 300%;
+          background: linear-gradient(90deg, #FF0000, #FF8800, #FFFF00, #00FF00, #00DDFF, #0066FF, #8B00FF, #FF0000);
+          background-size: 800% 100%;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           background-clip: text;
-          animation: gradient-shift 6s ease infinite;
+          animation: rainbow 4s linear infinite;
           margin: 4px 0;
           white-space: pre;
           font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
         }
-        @keyframes gradient-shift {
+        @keyframes rainbow {
           0% { background-position: 0% 50%; }
-          50% { background-position: 100% 50%; }
-          100% { background-position: 0% 50%; }
+          100% { background-position: 100% 50%; }
         }
         .tagline {
           font-size: 13px;

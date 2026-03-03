@@ -13,39 +13,39 @@
           <div class="prompt-line">
             <span class="prompt">~/nateboy318</span>
             <span class="cmd"> cat intro.sh</span>
-            <span class="cursor">Š</span>
+            <span class="cursor"></span>
           </div>
           <pre class="ascii-name">
- ˆˆˆW   ˆˆW ˆˆˆˆˆW ˆˆˆˆˆˆˆˆWˆˆˆˆˆˆˆW
- ˆˆˆˆW  ˆˆQˆˆTPPˆˆWZPPˆˆTPP]ˆˆTPPPP]
- ˆˆTˆˆW ˆˆQˆˆˆˆˆˆˆQ   ˆˆQ   ˆˆˆˆˆW  
- ˆˆQZˆˆWˆˆQˆˆTPPˆˆQ   ˆˆQ   ˆˆTPP]  
- ˆˆQ ZˆˆˆˆQˆˆQ  ˆˆQ   ˆˆQ   ˆˆˆˆˆˆˆW
+ W   W W WW
+ W  QTPPWZPPTPP]TPPPP]
+ TW QQ   Q   W  
+ QZWQTPPQ   Q   TPP]  
+ Q ZQQ  Q   Q   W
  ZP]  ZPPP]ZP]  ZP]   ZP]   ZPPPPPP]
- ˆˆˆˆˆˆW  ˆˆˆˆˆˆW ˆˆW   ˆˆW ˆˆˆˆˆW ˆˆW     
- ˆˆTPPˆˆWˆˆTPPPˆˆWZˆˆW ˆˆT]ˆˆTPPˆˆWˆˆQ     
- ˆˆˆˆˆˆT]ˆˆQ   ˆˆQ ZˆˆˆˆT] ˆˆˆˆˆˆˆQˆˆQ     
- ˆˆTPPˆˆWˆˆQ   ˆˆQ  ZˆˆT]  ˆˆTPPˆˆQˆˆQ     
- ˆˆQ  ˆˆQZˆˆˆˆˆˆT]   ˆˆQ   ˆˆQ  ˆˆQˆˆˆˆˆˆˆW
+ W  W W   W W W     
+ TPPWTPPPWZW T]TPPWQ     
+ T]Q   Q ZT] QQ     
+ TPPWQ   Q  ZT]  TPPQQ     
+ Q  QZT]   Q   Q  QW
  ZP]  ZP] ZPPPPP]    ZP]   ZP]  ZP]ZPPPPPP]</pre>
           <div class="tagline">
             <span class="tag-bracket">[</span>
             <span class="tag-text">founder</span>
             <span class="tag-bracket">]</span>
-            <span class="tag-sep"> · </span>
+            <span class="tag-sep">  </span>
             <span class="tag-bracket">[</span>
             <span class="tag-text">developer</span>
             <span class="tag-bracket">]</span>
-            <span class="tag-sep"> · </span>
+            <span class="tag-sep">  </span>
             <span class="tag-bracket">[</span>
             <span class="tag-text">louisville, ky</span>
             <span class="tag-bracket">]</span>
           </div>
           <div class="status-bar">
-            <span class="status-item">¸ ts</span>
-            <span class="status-item">¸ py</span>
-            <span class="status-item">¸ next.js</span>
-            <span class="status-item">¸ react</span>
+            <span class="status-item"> ts</span>
+            <span class="status-item"> py</span>
+            <span class="status-item"> next.js</span>
+            <span class="status-item"> react</span>
             <span class="status-dot"></span>
             <span class="status-uptime">uptime: since 2014</span>
           </div>
@@ -127,20 +127,19 @@
           font-size: 7.5px;
           line-height: 1.1;
           letter-spacing: 0.5px;
-          background: linear-gradient(135deg, #6C63FF, #0969DA, #CF222E, #6C63FF);
-          background-size: 300% 300%;
+          background: linear-gradient(90deg, #E50000, #E57300, #D4D400, #00B300, #00A0CC, #0055CC, #7700B3, #E50000);
+          background-size: 800% 100%;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           background-clip: text;
-          animation: gradient-shift 6s ease infinite;
+          animation: rainbow 4s linear infinite;
           margin: 4px 0;
           white-space: pre;
           font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
         }
-        @keyframes gradient-shift {
+        @keyframes rainbow {
           0% { background-position: 0% 50%; }
-          50% { background-position: 100% 50%; }
-          100% { background-position: 0% 50%; }
+          100% { background-position: 100% 50%; }
         }
         .tagline {
           font-size: 13px;
