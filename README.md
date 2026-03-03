@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Nate%20Royal&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Founder%20|%20Developer%20|%20Louisville,%20KY&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://raw.githubusercontent.com/nateboy318/nateboy318/main/header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+tools+that+help+students+succeed+%F0%9F%8E%93;Full-stack+developer+and+product+builder+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+Next.js+%7C+React+%E2%9A%A1" alt="Typing SVG" /></a>
 
@@ -60,18 +60,12 @@ I'm the founder of **[Due Gooder](https://duegooder.com)** — a student product
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nateboy318&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&cache_seconds=86400" />
   <img width="49%" src="https://streak-stats.demolab.com?user=nateboy318&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/nateboy318/nateboy318/output/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateboy318&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" />
 </div>
 
 ---
@@ -120,6 +114,6 @@ I'm the founder of **[Due Gooder](https://duegooder.com)** — a student product
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nateboy318&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/nateboy318/nateboy318/main/header.svg" width="100%"/>
 
 </div>
