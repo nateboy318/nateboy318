@@ -3,50 +3,49 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <div class="terminal">
         <div class="scanline"></div>
-        <div class="noise"></div>
         <div class="terminal-bar">
           <span class="dot red"></span>
           <span class="dot yellow"></span>
           <span class="dot green"></span>
-          <span class="terminal-title">nateboy318 â€” zsh â€” 80x24</span>
+          <span class="terminal-title">nateboy318  zsh  80x24</span>
         </div>
         <div class="terminal-body">
           <div class="prompt-line">
             <span class="prompt">~/nateboy318</span>
             <span class="cmd"> cat intro.sh</span>
-            <span class="cursor">â–Š</span>
+            <span class="cursor">Š</span>
           </div>
           <pre class="ascii-name">
- â–ˆâ–ˆâ–ˆâ•—   â–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
- â–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â•šâ•â•â–ˆâ–ˆâ•”â•â•â•â–ˆâ–ˆâ•”â•â•â•â•â•
- â–ˆâ–ˆâ•”â–ˆâ–ˆâ•— â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  
- â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•”â•â•â•  
- â–ˆâ–ˆâ•‘ â•šâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
- â•šâ•â•  â•šâ•â•â•â•â•šâ•â•  â•šâ•â•   â•šâ•â•   â•šâ•â•â•â•â•â•â•
- â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•—   â–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•—     
- â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â–ˆâ–ˆâ•—â•šâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘     
- â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘ â•šâ–ˆâ–ˆâ–ˆâ–ˆâ•”â• â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘     
- â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘  â•šâ–ˆâ–ˆâ•”â•  â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘     
- â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
- â•šâ•â•  â•šâ•â• â•šâ•â•â•â•â•â•    â•šâ•â•   â•šâ•â•  â•šâ•â•â•šâ•â•â•â•â•â•â•</pre>
+ ˆˆˆW   ˆˆW ˆˆˆˆˆW ˆˆˆˆˆˆˆˆWˆˆˆˆˆˆˆW
+ ˆˆˆˆW  ˆˆQˆˆTPPˆˆWZPPˆˆTPP]ˆˆTPPPP]
+ ˆˆTˆˆW ˆˆQˆˆˆˆˆˆˆQ   ˆˆQ   ˆˆˆˆˆW  
+ ˆˆQZˆˆWˆˆQˆˆTPPˆˆQ   ˆˆQ   ˆˆTPP]  
+ ˆˆQ ZˆˆˆˆQˆˆQ  ˆˆQ   ˆˆQ   ˆˆˆˆˆˆˆW
+ ZP]  ZPPP]ZP]  ZP]   ZP]   ZPPPPPP]
+ ˆˆˆˆˆˆW  ˆˆˆˆˆˆW ˆˆW   ˆˆW ˆˆˆˆˆW ˆˆW     
+ ˆˆTPPˆˆWˆˆTPPPˆˆWZˆˆW ˆˆT]ˆˆTPPˆˆWˆˆQ     
+ ˆˆˆˆˆˆT]ˆˆQ   ˆˆQ ZˆˆˆˆT] ˆˆˆˆˆˆˆQˆˆQ     
+ ˆˆTPPˆˆWˆˆQ   ˆˆQ  ZˆˆT]  ˆˆTPPˆˆQˆˆQ     
+ ˆˆQ  ˆˆQZˆˆˆˆˆˆT]   ˆˆQ   ˆˆQ  ˆˆQˆˆˆˆˆˆˆW
+ ZP]  ZP] ZPPPPP]    ZP]   ZP]  ZP]ZPPPPPP]</pre>
           <div class="tagline">
             <span class="tag-bracket">[</span>
             <span class="tag-text">founder</span>
             <span class="tag-bracket">]</span>
-            <span class="tag-sep"> Â· </span>
+            <span class="tag-sep"> · </span>
             <span class="tag-bracket">[</span>
             <span class="tag-text">developer</span>
             <span class="tag-bracket">]</span>
-            <span class="tag-sep"> Â· </span>
+            <span class="tag-sep"> · </span>
             <span class="tag-bracket">[</span>
             <span class="tag-text">louisville, ky</span>
             <span class="tag-bracket">]</span>
           </div>
           <div class="status-bar">
-            <span class="status-item">â–¸ ts</span>
-            <span class="status-item">â–¸ py</span>
-            <span class="status-item">â–¸ next.js</span>
-            <span class="status-item">â–¸ react</span>
+            <span class="status-item">¸ ts</span>
+            <span class="status-item">¸ py</span>
+            <span class="status-item">¸ next.js</span>
+            <span class="status-item">¸ react</span>
             <span class="status-dot"></span>
             <span class="status-uptime">uptime: since 2014</span>
           </div>
@@ -60,18 +59,18 @@
         }
         .terminal {
           font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
-          background: #0D1117;
+          background: #FFFFFF;
           border-radius: 10px;
           overflow: hidden;
           position: relative;
           height: 320px;
-          border: 1px solid #30363D;
+          border: 1px solid #D0D7DE;
         }
         .scanline {
           position: absolute;
           width: 100%;
           height: 2px;
-          background: rgba(108, 99, 255, 0.08);
+          background: rgba(108, 99, 255, 0.06);
           z-index: 10;
           animation: scanline 4s linear infinite;
         }
@@ -80,12 +79,12 @@
           100% { top: 320px; }
         }
         .terminal-bar {
-          background: #161B22;
+          background: #F6F8FA;
           padding: 8px 12px;
           display: flex;
           align-items: center;
           gap: 6px;
-          border-bottom: 1px solid #30363D;
+          border-bottom: 1px solid #D0D7DE;
         }
         .dot {
           width: 10px;
@@ -97,7 +96,7 @@
         .dot.yellow { background: #FEBC2E; }
         .dot.green { background: #28C840; }
         .terminal-title {
-          color: #8B949E;
+          color: #656D76;
           font-size: 11px;
           margin-left: 8px;
         }
@@ -113,7 +112,7 @@
           font-weight: bold;
         }
         .cmd {
-          color: #C9D1D9;
+          color: #1F2328;
         }
         .cursor {
           color: #6C63FF;
@@ -128,7 +127,7 @@
           font-size: 7.5px;
           line-height: 1.1;
           letter-spacing: 0.5px;
-          background: linear-gradient(135deg, #6C63FF, #00D4FF, #FF6B6B, #6C63FF);
+          background: linear-gradient(135deg, #6C63FF, #0969DA, #CF222E, #6C63FF);
           background-size: 300% 300%;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
@@ -146,20 +145,15 @@
         .tagline {
           font-size: 13px;
           margin: 8px 0;
-          animation: fadeIn 1s ease-in;
-        }
-        @keyframes fadeIn {
-          from { opacity: 0; }
-          to { opacity: 1; }
         }
         .tag-bracket {
           color: #6C63FF;
         }
         .tag-text {
-          color: #C9D1D9;
+          color: #1F2328;
         }
         .tag-sep {
-          color: #30363D;
+          color: #D0D7DE;
         }
         .status-bar {
           display: flex;
@@ -167,27 +161,27 @@
           gap: 12px;
           margin-top: 10px;
           padding-top: 8px;
-          border-top: 1px solid #21262D;
+          border-top: 1px solid #D8DEE4;
           font-size: 11px;
         }
         .status-item {
-          color: #8B949E;
+          color: #656D76;
         }
         .status-dot {
           width: 6px;
           height: 6px;
           border-radius: 50%;
-          background: #28C840;
+          background: #1A7F37;
           display: inline-block;
           animation: pulse 2s ease infinite;
           margin-left: auto;
         }
         @keyframes pulse {
-          0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(40, 200, 64, 0.4); }
-          50% { opacity: 0.7; box-shadow: 0 0 0 4px rgba(40, 200, 64, 0); }
+          0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(26, 127, 55, 0.4); }
+          50% { opacity: 0.7; box-shadow: 0 0 0 4px rgba(26, 127, 55, 0); }
         }
         .status-uptime {
-          color: #28C840;
+          color: #1A7F37;
           font-size: 11px;
         }
       </style>

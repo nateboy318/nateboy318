@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nateboy318/nateboy318/main/header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/nateboy318/nateboy318/main/header.svg#gh-dark-mode-only" width="100%"/>
+<img src="https://raw.githubusercontent.com/nateboy318/nateboy318/main/header-light.svg#gh-light-mode-only" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+tools+that+help+students+succeed+%F0%9F%8E%93;Full-stack+developer+and+product+builder+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+Next.js+%7C+React+%E2%9A%A1" alt="Typing SVG" /></a>
 
@@ -113,7 +114,5 @@ I'm the founder of **[Due Gooder](https://duegooder.com)** — a student product
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nateboy318&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://raw.githubusercontent.com/nateboy318/nateboy318/main/header.svg" width="100%"/>
 
 </div>
