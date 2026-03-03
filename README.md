@@ -1,10 +1,8 @@
-<!-- nateboy318/nateboy318 - GitHub Profile README -->
-
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Nate%20Royal&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Founder%20%26%20Developer%20%7C%20Louisville%2C%20KY&descAlignY=55&descSize=20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Nate%20Royal&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Founder%20|%20Developer%20|%20Louisville,%20KY&descAlignY=55&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+tools+that+help+students+succeed+%F0%9F%8E%93;Full-stack+developer+%26+product+builder+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+Next.js+%7C+React+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+tools+that+help+students+succeed+%F0%9F%8E%93;Full-stack+developer+and+product+builder+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+Next.js+%7C+React+%E2%9A%A1" alt="Typing SVG" /></a>
 
 </div>
 
@@ -43,9 +41,9 @@ I'm the founder of **[Due Gooder](https://duegooder.com)** — a student product
 **Databases & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E5A0?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E5A0?style=for-the-badge&logoColor=white)
 
 **Tools & Platforms**
 
@@ -62,12 +60,14 @@ I'm the founder of **[Due Gooder](https://duegooder.com)** — a student product
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nateboy318&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nateboy318&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nateboy318&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&cache_seconds=86400" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=nateboy318&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateboy318&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateboy318&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" />
 </div>
 
 ---
@@ -76,7 +76,7 @@ I'm the founder of **[Due Gooder](https://duegooder.com)** — a student product
 
 <div align="center">
 
-[![Nate's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nateboy318&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nateboy318&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true)](https://github.com/nateboy318)
 
 </div>
 
@@ -101,7 +101,7 @@ I'm the founder of **[Due Gooder](https://duegooder.com)** — a student product
 <div align="center">
 
 <a href="https://duegooder.com">
-  <img src="https://img.shields.io/badge/Due_Gooder-6C63FF?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIyIDEwdjZNMiAxMGw2LTZoNCIvPjxwYXRoIGQ9Ik02IDZ2MTJjMCAxLjEuOSAyIDIgMmgzIi8+PHBhdGggZD0iTTE4IDloLTJ2Mmg0Ii8+PC9zdmc+"/>
+  <img src="https://img.shields.io/badge/Due_Gooder-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
@@ -126,6 +126,6 @@ I'm the founder of **[Due Gooder](https://duegooder.com)** — a student product
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nateboy318&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
