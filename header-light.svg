@@ -88,8 +88,8 @@
     <tspan fill="#656D76">   ▸ next.js</tspan>
     <tspan fill="#656D76">   ▸ react</tspan>
   </text>
-  <circle cx="700" cy="303" r="3" fill="#1A7F37">
+  <circle cx="630" cy="303" r="3" fill="#1A7F37">
     <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="710" y="307" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#1A7F37">uptime: since 2014</text>
+  <text x="640" y="307" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#1A7F37">uptime: since 2014</text>
 </svg>
